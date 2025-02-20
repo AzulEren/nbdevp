@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://AzulEren.github.io',
                 'git_url': 'https://github.com/AzulEren/nbdevp',
                 'lib_path': 'nbdevp'},
-  'syms': {'nbdevp.core': {'nbdevp.core.foo': ('core.html#foo', 'nbdevp/core.py')}}}
+  'syms': { 'nbdevp.core': { 'nbdevp.core.foo': ('core.html#foo', 'nbdevp/core.py'),
+                             'nbdevp.core.saludo': ('core.html#saludo', 'nbdevp/core.py'),
+                             'nbdevp.core.saludo_a': ('core.html#saludo_a', 'nbdevp/core.py')}}}
