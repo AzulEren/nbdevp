@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevp"
+  site-url: "https://AzulEren.github.io/nbdevp"
+  description: "Curso nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/AzulEren/nbdevp"
